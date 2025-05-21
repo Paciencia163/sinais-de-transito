@@ -87,8 +87,8 @@ streamlit run app/app.py
 
 ## 📬 Contato
 
-- GitHub: [seu-usuario](https://github.com/seu-usuario)
-- Email: contato@exemplo.com
+- GitHub: [seu-usuario](https://github.com/Paciencia163)
+- Email: paciencia@gmail.com
 
 ---
 
